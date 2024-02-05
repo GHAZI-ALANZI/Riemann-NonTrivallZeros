@@ -3,7 +3,7 @@
 @section('content')
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
-<canvas id="zerosChart" width="800" height="400" style="background-color: rgb(255, 255, 255)"></canvas>
+<canvas id="zerosChart"  style="background-color: rgba(255, 255, 255, 0.972);max-height: 41em"></canvas>
 
     <script>
         // Parse PHP data into JavaScript array
@@ -21,15 +21,15 @@
             labels: labels,
             datasets: [{
                 label: 'Real Part',
-                backgroundColor: 'rgb(171, 14, 35)',
-                borderColor: 'rgb(171, 14, 35)',
-                borderWidth: 1,
+                backgroundColor: 'rgb(28, 62, 255)',
+                borderColor: 'rgb(28, 62, 255)',
+                fill: {value: 2},
                 data: realParts
             }, {
                 label: 'Imaginary Part',
-                backgroundColor: 'rgb(64, 71, 255)',
-                borderColor: 'rgb(64, 71, 255)',
-                borderWidth: 1,
+                backgroundColor: 'rgb(255, 57, 54)',
+                borderColor: 'rgb(255, 57, 54)',
+                fill: {value: 2},
                 data: imaginaryParts
                 
             }]
@@ -39,18 +39,14 @@
         // Create chart
         var ctx = document.getElementById('zerosChart').getContext('2d');
         var zerosChart = new Chart(ctx, {
-            type: 'bar',
+            type: 'radar',
             data: data,
             options: {
-                
-                scales: {
-                    yAxes: [{
-                        ticks: {
-                            beginAtZero: true
-                        }
-                    }]
-                }
-            }
-        });
+
+    interaction: {
+      intersect: false
+    }
+  }
+});
     </script>
 </body>@endsection
