@@ -2,6 +2,10 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ZetaController;
+use App\Http\Controllers\MailController;
+// email send
+Route::get ('/',[MailController::class,'mailform']);
+Route::post ('/send-mail',[MailController::class,'maildata'])->name('send_mail');
 /*
 |--------------------------------------------------------------------------
 | Web Routes
