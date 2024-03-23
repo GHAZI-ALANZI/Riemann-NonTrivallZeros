@@ -7,60 +7,30 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+<h1> Non Trival Zeros of Riemann Zeta Function </h1>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+####################################################################
+<h2>Used Technologies</h2>
+####################################################################
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<h3>##laravel 10##</h3>
+<h3>##mail trap##</h3>
+<h3>##tailwind##</h3>
+<h3>##chart js##</h3>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+##################################################################
+![chrome-capture (1)](https://github.com/GHAZI-ALANZI/Riemann-NonTrivallZeros/assets/105205339/9f439979-f4b8-4a9c-95a4-a29e98761880)
+![chrome-capture (2)](https://github.com/GHAZI-ALANZI/Riemann-NonTrivallZeros/assets/105205339/b16a1f50-1c78-4832-b5a5-fa8012c6379a)
+![chrome-capture (3)](https://github.com/GHAZI-ALANZI/Riemann-NonTrivallZeros/assets/105205339/1c1a6c83-f0e7-4988-a7a8-84acded3ee6a)
+![chrome-capture (4)](https://github.com/GHAZI-ALANZI/Riemann-NonTrivallZeros/assets/105205339/8bd885c1-d805-42b0-bcea-6b01bd2cbfaa)
+![chrome-capture (5)](https://github.com/GHAZI-ALANZI/Riemann-NonTrivallZeros/assets/105205339/332cda00-e8fd-4226-b243-7408d5fb82c9)
+![chrome-capture (6)](https://github.com/GHAZI-ALANZI/Riemann-NonTrivallZeros/assets/105205339/2153b7e6-95db-41e8-8fb7-f647406bced8)
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
